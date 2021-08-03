@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### Repositorio Flores Jhonny
 
-Algoritmo de busqueda BFS: 
+Algoritmo de busqueda de Inteligencia Artificial BFS: 
 
-Se da un listado de nodos station con direccion y luego en el algoritmo de busqueda se ubica de donde a donde buscar y selecciona la mejor ruta.
+Se da un listado de nodos con direcciones definidas y luego en el algoritmo de busqueda se encarga de selecciona la mejor ruta.
 
 Para su desarrollo se uso:
 
